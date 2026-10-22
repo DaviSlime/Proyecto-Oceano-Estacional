@@ -360,6 +360,8 @@ Verifica los nodos principales del flujo:
 
 - Asegúrate de que la ventana de renderizado visual esté activa y lista para proyectar.
 
+- descarga la carpeta ```Image``` que contiene las imagenes para las particulas de interacción y conectalas a los nodos de cada uno 
+
 ### Paso 4: Cargar el Open Stage Control
 
 Ejecuta la aplicacion de OpenStageControl.
@@ -367,8 +369,8 @@ Ejecuta la aplicacion de OpenStageControl.
 Verifica que la conexion sea la siguiente:
 
 - En el apartado de send colocas: ``` 127.0.0.1:10000 ```
-- En el apartado de Port colocas: ```8087```
-- En el apartado de osc-port: ```9001```
+- En el apartado de Port colocas: ```9002```
+- En el apartado de osc-port: ```9003```
 
 Despues de verificar todas las conexiones y los puertos Inicia el open stage control
 
