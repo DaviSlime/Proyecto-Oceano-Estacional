@@ -353,7 +353,7 @@ node server.js
 En la terminal verás la dirección IP local de tu equipo y un código QR generado automáticamente en pantalla. Deja esta ventana de la terminal abierta durante toda la presentación.
 
 ### Paso 3: Cargar y Configurar TouchDesigner
-Descarga y abre el archivo Oceano_Interactivo.toe en TouchDesigner.
+Descarga y abre el archivo estacionesOceanicas.23.toe en TouchDesigner.
 
 Verifica los nodos principales del flujo:
 
