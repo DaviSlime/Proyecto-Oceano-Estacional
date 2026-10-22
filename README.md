@@ -2,6 +2,12 @@
 
 ---
 
+
+# DEMO DE LA MUESTRA
+
+
+
+
 ## 1. Explicación breve de la obra
 
 ###  Intención
@@ -342,6 +348,7 @@ Inicia el servidor ejecutando:
 ```
 node server.js
 ```
+<img width="743" height="687" alt="image" src="https://github.com/user-attachments/assets/e0f02383-4332-4984-96d3-2f0dc861aaaa" />
 
 En la terminal verás la dirección IP local de tu equipo y un código QR generado automáticamente en pantalla. Deja esta ventana de la terminal abierta durante toda la presentación.
 
@@ -352,11 +359,23 @@ Verifica los nodos principales del flujo:
 
 - oscin3 (OSC In DAT): Debe estar escuchando en el puerto 10000.
 
+  <img width="846" height="522" alt="image" src="https://github.com/user-attachments/assets/01dc9e2f-9c8c-4847-a2be-fb9b14a07a9c" />
+
+
 - votos (Constant CHOP): Contiene los 4 canales (value0, value1, value2, value3) correspondientes a Primavera, Verano, Otoño e Invierno.
+
+  <img width="962" height="551" alt="image" src="https://github.com/user-attachments/assets/46283ae9-bdce-40e3-af6b-40de635c2fd3" />
+
 
 - trigger1 (Trigger CHOP) y Fan CHOP: Encargados del enrutamiento de las partículas hacia la estación seleccionada mediante el Math CHOP (Multiplicación).
 
+  <img width="1145" height="630" alt="image" src="https://github.com/user-attachments/assets/1976300e-d0ad-45c5-9f26-8c997cb6d04d" />
+
+
 - OSC Out CHOP: Configurado hacia la IP 127.0.0.1 en el puerto 57121 para retornar la telemetría de votos al servidor Node.js.
+
+  <img width="1092" height="541" alt="image" src="https://github.com/user-attachments/assets/f1e3cc2f-632b-4638-b591-c64eacfa2461" />
+
 
 - Asegúrate de que la ventana de renderizado visual esté activa y lista para proyectar.
 
@@ -368,13 +387,19 @@ Ejecuta la aplicacion de OpenStageControl.
 
 Verifica que la conexion sea la siguiente:
 
-- En el apartado de send colocas: ``` 127.0.0.1:10000 ```
+- En el apartado de send colocas: ``` 127.0.0.1:9001 ```
 - En el apartado de Port colocas: ```9002```
 - En el apartado de osc-port: ```9003```
+
+  <img width="830" height="430" alt="image" src="https://github.com/user-attachments/assets/c64961a1-c631-427a-83d6-76629bc3d86f" />
+
 
 Despues de verificar todas las conexiones y los puertos Inicia el open stage control
 
 En la parte superior izquierda haz click en los 3 puntitos y en el apartado de session seleccionas open y buscar el archivo llamado ```clientUI.json``` (Está en el repositorio para descargar)
+
+<img width="973" height="590" alt="image" src="https://github.com/user-attachments/assets/1cfe8812-0071-4814-bbe0-5f01448d1f54" />
+
 
 Ya con esto puedes utilizar la seleccion de 0 a 3 para cambiar la estación:
 0-Primavera
@@ -396,6 +421,9 @@ Presionar el botón "✨ Generar Interacción ✨" para detonar explosiones de p
 
 Consultar en su propio celular el Marcador en Vivo actualizado automáticamente.
 
+<img width="601" height="822" alt="image" src="https://github.com/user-attachments/assets/4553e48a-78b3-493f-abe7-4868415e991b" />
+
+
 ### Paso 6: Reinicio de la Experiencia
 
 Si deseas reiniciar la votación a cero en cualquier momento de la presentación o para un nuevo grupo de espectadores:
@@ -405,3 +433,6 @@ Ve a la ventana de TouchDesigner.
 Presiona la tecla r en tu teclado.
 
 El nodo CHOP Execute reestablecerá instantáneamente todos los canales del nodo votos a 0, y la pantalla de todos los teléfonos conectados se actualizará a cero en tiempo real.
+
+
+
