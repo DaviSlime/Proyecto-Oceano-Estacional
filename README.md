@@ -20,7 +20,7 @@ https://youtu.be/fb5H2exo0cI
 La obra busca reflexionar sobre la influencia colectiva en la transformación de los ecosistemas naturales, utilizando el océano y sus "estaciones" como metáfora de un entorno vivo y reactivo. La intención artística es trasladar la responsabilidad del estado climático al público, convirtiendo la toma de decisiones individual en una manifestación visual comunitaria donde cada persona influye en la atmósfera del espacio sumergido.
 
 ###  Percepción
-El público experimenta la obra no como espectador pasivo, sino como co-creador activo del espacio. Al conectarse desde su dispositivo móvil, la barrera entre lo físico y lo digital se disuelve; el asistente siente agencia directa al ver cómo su interacción en el celular altera inmediatamente la proyección colectiva, genera ráfagas de partículas y devuelve retroalimentación en tiempo real a su propia pantalla.
+El público experimenta la obra no como espectador pasivo, sino como co-creador activo del espacio. Al conectarse desde su dispositivo móvil, la barrera entre lo físico y lo digital se disuelve; el asistente siente agencia directa al ver cómo su interacción en el celular altera inmediatamente la proyección colectiva, genera imagenes de partículas y devuelve retroalimentación en tiempo real a su propia pantalla.
 
 ###  Sistema técnico
 La pieza se sostiene en un ecosistema interactivo bidireccional de baja latencia:
@@ -40,7 +40,7 @@ La pieza se sostiene en un ecosistema interactivo bidireccional de baja latencia
 ## 2. Reflexión post-performance y análisis crítico
 
 ### Evaluación del resultado: Intención vs. Percepción
-El performance demostró un alto nivel de involucramiento y apropiación por parte del público. La intención conceptual de generar una responsabilidad colectiva se tradujo en una dinámica de **juego y negociación social**: los asistentes no solo votaban de manera aislada, sino que se organizaban en grupos en la sala para intentar "dominar" el clima del océano (por ejemplo, haciendo porras para llevar el espacio a Invierno u Otoño). 
+El performance demostró un alto nivel de involucramiento y apropiación por parte del público. La intención conceptual de generar una responsabilidad colectiva se tradujo en una dinámica de **juego y negociación social**: los asistentes no solo votaban de manera aislada, sino que se ponian deacuerdo para votar por la que mas votos tuviera en ese moemto. 
 
 En cuanto a la percepción, la inmediatez de la respuesta visual y el marcador en vivo en los teléfonos eliminaron cualquier brecha de aprendizaje; la interacción fue intuitiva e instantánea. Sin embargo, la brecha entre la intención metafórica y la percepción radicó en que el público percibió la experiencia inicialmente como una competencia lúdica más que como una reflexión ecológica profunda, lo cual abre una oportunidad para acentuar el diseño sonoro y la narrativa visual en futuras iteraciones.
 
